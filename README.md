@@ -1,0 +1,1 @@
+Solutions to various problems from http://fivethirtyeight.com/tag/the-riddler/
